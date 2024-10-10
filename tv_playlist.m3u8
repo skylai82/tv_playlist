@@ -1,4 +1,9 @@
 #EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=96000,CODECS="mp4a.40.2"
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/cmaf-audio_0=96000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=600000,CODECS="avc1.64001f"
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/cmaf-video=600000.m3u8
+
 #EXTINF:-1 tvg-name="8TV 270p" tvg-country="MY" ,8TV 270p
 https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 
